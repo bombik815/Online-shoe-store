@@ -1,7 +1,9 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/f35jlijx9qn8vns0/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/online-shoe-store/branch/main)
 
 
 [Link to project](https://bombik815.github.io/Online-shoe-store/)
+
+[backend](https://github.com/bombik815/ra-diplom-back)
 
 # Дипломный проект курса «React»
 
